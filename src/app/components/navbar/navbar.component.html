@@ -1,0 +1,72 @@
+<nav class="navbar navbar-expand-lg bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand display-1">StreamAng</a>
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav w-100">
+                <li class="nav-item ms-auto" *ngIf="!utente">
+                    <a
+                        class="nav-link active"
+                        [routerLink]="['/']"
+                        routerLinkActive="active"
+                        [routerLinkActiveOptions]="{ exact: true }"
+                        >Home</a
+                    >
+                </li>
+                <li class="nav-item" *ngIf="utente">
+                    <a
+                        class="nav-link"
+                        [routerLink]="['/movies']"
+                        routerLinkActive="active"
+                        >Movies</a
+                    >
+                </li>
+                <li class="nav-item" *ngIf="utente">
+                    <a
+                        class="nav-link"
+                        [routerLink]="['/favorites']"
+                        routerLinkActive="active"
+                        >Favorites</a
+                    >
+                </li>
+                <li class="nav-item" *ngIf="utente">
+                    <a class="nav-link">Profile</a>
+                </li>
+                <li class="nav-item" *ngIf="!utente">
+                    <a
+                        class="nav-link"
+                        [routerLink]="['/login']"
+                        routerLinkActive="active"
+                        >Login</a
+                    >
+                </li>
+                <li class="nav-item" *ngIf="!utente">
+                    <a
+                        class="nav-link"
+                        [routerLink]="['/register']"
+                        routerLinkActive="active"
+                        >Registrati</a
+                    >
+                </li>
+            </ul>
+            <button
+                type="button"
+                class="btn btn-danger ms-2 float-end"
+                *ngIf="utente"
+                (click)="logout()"
+            >
+                Logout
+            </button>
+        </div>
+    </div>
+</nav>
