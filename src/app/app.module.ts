@@ -15,6 +15,7 @@ import { LoginComponent } from './auth/login/login.component';
 import { RegisterComponent } from './auth/register/register.component';
 import { AuthGuard } from './auth/auth.guard';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ProfileComponent } from './components/profile/profile.component';
 
 const routes: Route[] = [
     {
@@ -29,6 +30,11 @@ const routes: Route[] = [
     {
         path: 'favorites',
         component: FavoritesComponent,
+        canActivate: [AuthGuard],
+    },
+    {
+        path: 'profile',
+        component: ProfileComponent,
         canActivate: [AuthGuard],
     },
     {
@@ -54,6 +60,7 @@ const routes: Route[] = [
         FavoritesComponent,
         LoginComponent,
         RegisterComponent,
+        ProfileComponent,
     ],
     imports: [
         BrowserModule,

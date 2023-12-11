@@ -1,5 +1,7 @@
 <div>
-    <h3>Favorite movies</h3>
+    <h3 class="display-4 mt-4">
+        {{ this.user?.user?.nome }}'s favorite movies
+    </h3>
     <div class="row">
         <div class="col-3 gy-4" *ngFor="let movie of userFavs; let i = index">
             <div class="card bg-dark">

@@ -3,15 +3,15 @@
     {
       "email": "david@rios.com",
       "password": "$2a$10$om.rPHsnupTMmtgag88WTu/cY0xthJALJuX7KAa6cC3YceWHX67.6",
-      "nome": "david",
-      "cognome": "rios",
+      "nome": "David",
+      "cognome": "Rios",
       "id": 5
     },
     {
-      "email": "giulia@pagano.com",
-      "password": "$2a$10$JuQljKEqG5XC7mWYANOJt.R91jI.pFQtpTJuTefUERa20dn3L6vFW",
-      "nome": "Giulia",
-      "cognome": "Pagano",
+      "email": "dadegi@dadegi.com",
+      "password": "$2a$10$k5VtvfQBEjoboBDyJr6vO.mqu1j0DarTJcP8uxksQpSDZuWsAYewO",
+      "nome": "Dario",
+      "cognome": "Del Giudice",
       "id": 6
     }
   ],
@@ -79,85 +79,104 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
       "genre_ids": [
-        18,
-        80
-      ],
-      "id": 240,
-      "original_language": "en",
-      "original_title": "The Godfather: Part II",
-      "overview": "Il film tratta della giovinezza e dei primi passi nel mondo del crimine di Vito Corleone, e delle difficoltà cinquant'anni più tardi di suo figlio, Michael, a mantenere in piedi l'impero Corleone. Il tutto tra vicende di emigrazione, tradimenti familiari, inchieste governative e affari.",
-      "popularity": 33.194,
-      "poster_path": "http://image.tmdb.org/t/p/w500/x3tDZOQn1jxaoVd3RJLECX6QGvd.jpg",
-      "release_date": "1974-12-20",
-      "title": "Il padrino - Parte II",
-      "video": false,
-      "vote_average": 8.6,
-      "vote_count": 8549,
-      "userId": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
-      "genre_ids": [
-        18,
-        36,
-        10752
-      ],
-      "id": 424,
-      "original_language": "en",
-      "original_title": "Schindler's List",
-      "overview": "Tratto dal libro di Thomas Keneally è la vera storia di Oscar Schindler, industriale tedesco, che nel 1938 capisce che è bene legarsi ai comandanti militari. Li frequenta nei locali notturni, offre bottiglie preziose. Quando gli ebrei sono relegati nel ghetto di Cracovia Schindler riesce a farsene assegnare alcune centinaia come operai in una fabbrica di pentole. All'inizio sembra sfruttarli, in realtà li salva. Di fronte alla persecuzione tremenda, il tedesco trasforma quella sua prima iniziativa in una vera missione, fino a comprare letteralmente le vite di quasi milleduecento ebrei (la famosa lista) che sicuramente morirebbero nel campo di Auschwitz.",
-      "popularity": 29.343,
-      "poster_path": "http://image.tmdb.org/t/p/w500/m0pV0fmMERzCvPVQbLLrPPLl5q1.jpg",
-      "release_date": "1993-11-30",
-      "title": "Schindler's List",
-      "video": false,
-      "vote_average": 8.6,
-      "vote_count": 11402,
-      "userId": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
-      "genre_ids": [
-        10749,
-        16,
+        35,
+        53,
         18
       ],
-      "id": 372058,
-      "original_language": "ja",
-      "original_title": "君の名は。",
-      "overview": "Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato. Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
-      "popularity": 84.171,
-      "poster_path": "http://image.tmdb.org/t/p/w500/z26TZXh7lqrRVCIy1HXTTz3Fu2X.jpg",
-      "release_date": "2016-08-26",
-      "title": "Your Name.",
-      "video": false,
-      "vote_average": 8.6,
-      "vote_count": 7478,
-      "userId": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
-      "genre_ids": [
-        36,
-        10402,
-        18
-      ],
-      "id": 556574,
-      "original_language": "en",
-      "original_title": "Hamilton",
-      "overview": "Una produzione originale di Broadway che combina il meglio del teatro dal vivo con la cinematografia per portare questo fenomeno culturale nelle case di tutto il mondo. 'Hamilton' è un'esperienza emozionante e unica.",
-      "popularity": 17.803,
-      "poster_path": "http://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
-      "release_date": "2020-07-03",
-      "title": "Hamilton",
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "Tutta la famiglia di Ki-taek è senza lavoro. Ki-taek è particolarmente interessata allo stile di vita della ricchissima famiglia Park. Un giorno, suo figlio riesce a farsi assumere dai Park e le due famiglie si ritrovano così intrecciate da una serie di eventi incontrollabili.",
+      "popularity": 100.563,
+      "poster_path": "http://image.tmdb.org/t/p/w500/dJFTwh20N23ZeSDIaCkOZTNoGn1.jpg",
+      "release_date": "2019-05-30",
+      "title": "Parasite",
       "video": false,
       "vote_average": 8.5,
-      "vote_count": 724,
+      "vote_count": 11416,
+      "userId": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 680,
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "Le vite di due gangster, di un pugile e della moglie di un potente boss della malavita finiscono per intrecciarsi in una paradossale storia di violenza, vendetta e redenzione.",
+      "popularity": 42.296,
+      "poster_path": "http://image.tmdb.org/t/p/w500/jGSFXI9CidmdsWwg8LwUjMk3ONe.jpg",
+      "release_date": "1994-09-10",
+      "title": "Pulp Fiction",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 21141,
+      "userId": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "Dodici giurati sono riuniti in consiglio per decidere della sorte di un diciottenne accusato d'omicidio. Undici lo ritengono colpevole. Soltanto uno, Davis, lo considera innocente; trattandosi di una possibile condanna a morte, è necessaria l'unanimità. Con appassionata eloquenza e con il rigore dei suoi ragionamenti, Davis convince gli altri uno a uno che l'accusa non regge.",
+      "popularity": 24.691,
+      "poster_path": "http://image.tmdb.org/t/p/w500/6lvkCuYuqpbmK1OPcv5oKleWbgV.jpg",
+      "release_date": "1957-04-10",
+      "title": "La parola ai giurati",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 5581,
+      "userId": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "id": 567189,
+      "original_language": "en",
+      "original_title": "Tom Clancy's Without Remorse",
+      "overview": "John Kelly, un ex membro dei Navy SEAL, nel tentativo di vendicare l’omicidio di sua moglie, si ritroverà invischiato in una cospirazione ben più grande e pericolosa di quanto avrebbe potuto mai immaginare.",
+      "popularity": 1840.479,
+      "poster_path": "http://image.tmdb.org/t/p/w500/zisnDuZBQWzio4ylon8AElnat7V.jpg",
+      "release_date": "2021-04-29",
+      "title": "Senza rimorso",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 999,
+      "userId": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fejok33Ijc6SppiEU1cfwA9Mo2.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 717192,
+      "original_language": "nl",
+      "original_title": "Ferry",
+      "overview": "Prima dell'impero criminale e dell'operazione di polizia, com'è iniziato tutto per Ferry Bouman, il narcoboss di \"Undercover\"? Con Frank Lammers ed Elise Schaap.",
+      "popularity": 1329.854,
+      "poster_path": "http://image.tmdb.org/t/p/w500/w6n1pu9thpCVHILejsuhKf3tNCV.jpg",
+      "release_date": "2021-05-14",
+      "title": "Ferry",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 53,
       "userId": 6
     }
   ],
